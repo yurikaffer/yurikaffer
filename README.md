@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 # 💜 Olá, meu nome é <strong>{Yuri}!</strong>
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474de8jdb4u1d5yd004fm799awqfg9y56b1c2ace36&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="ilustração de um computador" width="310px" align="right">
 
 
 > 🚀 Desenvolvedor Full-Stack 
