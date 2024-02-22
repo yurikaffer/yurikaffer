@@ -7,13 +7,11 @@
 
 > 🚀 Desenvolvedor Full-Stack 
 
-Ao longo da minha trajetória profissional, adquiri experiência no desenvolvimento de sistemas integrados e em soluções como ERP, CRM, BPM, GED, Chatbot e aplicações web.
-
 🔭 Atualmente estou estudando ReactTs e NodeJs para aplicações Full-Stack web.
 
-💬 Fique a vontade para explorar meus projetos pessoais em repositórios.
+💬 Fique a vontade para explorar meus projetos e repositórios.
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
