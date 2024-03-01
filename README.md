@@ -1,15 +1,18 @@
 
 
-# 💜 Olá, meu nome é <strong>{Yuri}!</strong>
-
+# 💜 Olá, me chamo <strong>{Yuri}!</strong>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474de8jdb4u1d5yd004fm799awqfg9y56b1c2ace36&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="ilustração de um computador" width="310px" align="right">
-
 
 > 🚀 Desenvolvedor Full-Stack 
 
 🔭 Atualmente estou estudando ReactTs e NodeJs para aplicações Full-Stack web.
 
 💬 Fique a vontade para explorar meus projetos e repositórios.
+</br>
+</br>
+</br>
+</br>
+
 
 ## 🚀 Skills
 
